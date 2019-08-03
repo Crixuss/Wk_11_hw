@@ -1,0 +1,39 @@
+body {
+    background: lightgrey;
+}
+img {
+      position: relative;
+      left: 10%
+}
+
+.right {
+    position: relative;
+    height: 300px;
+    margin-top: 10px;
+    margin-right: 10px;
+    top: 20%;
+}
+
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    
+}
+
+p {
+    text-align: center;
+    
+} 
+div {
+    background: white;
+    margin-bottom: 10px;
+    
+}
+a {
+    text-align: left;
+}
+
+.nav-brand {
+    color : white;
+}
